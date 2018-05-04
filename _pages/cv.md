@@ -9,43 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+* 2017- 	Associate Professor (with tenure), Department of Economics, Case Western Reserve University
+* 2014- 2017	Associate Professor (without tenure), Department of Economics, Case Western Reserve University
+* 2007-2014	Assistant Professor, Department of Economics, Case Western Reserve University
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* 2007	Ph.D. Harvard University, Economics. Fields: Development Economics, Economic History, and Labor Economics. 
+* 1998	M.A., University of Chicago, Anthropology and Linguistics.
+* 1993	B.A., University of Toronto, With High Distinction.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Refereed Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Other Publications
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Teaching
