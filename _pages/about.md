@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 I am an associate professor of economics at Case Western Reserve University. I specialize in economic history and applied microeconomics.
+
