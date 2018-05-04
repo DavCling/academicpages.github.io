@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "David Clingingsmith"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Cleveland, Ohio"
+  employer         : "Case Western Reserve University"
+  googlescholar    : "https://scholar.google.com/citations?user=eHNgzVQAAAAJ&hl=en"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "DavCling"
   google_plus      :
   keybase          :
   instagram        :
