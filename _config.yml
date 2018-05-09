@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Clingingsmith / Economist"
+title                    : "David Clingingsmith"
 title_separator          : "-"
 name                     : &name "David Clingingsmith"
 description              : &description "Academic website of David Clingingsmith"
@@ -82,7 +82,7 @@ author:
   avatar           : "DLC.jpg"
   bio              : "Associate Professor of Economics"
   location         : "Cleveland, Ohio"
-  employer         : "Case Western Reserve University"
+  employer         : "CWRU"
   googlescholar    : "https://scholar.google.com/citations?user=eHNgzVQAAAAJ&hl=en"
   email            : "david DOT clingingsmith AT gmail DOT com"
   uri              :
