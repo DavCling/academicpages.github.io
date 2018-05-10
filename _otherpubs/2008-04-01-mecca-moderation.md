@@ -1,7 +1,7 @@
 ---
 title: "Of Mecca and Moderation"
-collection: other-pubs
-permalink: /other_pubs/2008-04-01-mecca-moderation
+collection: otherpubs
+permalink: /otherpubs/2008-04-01-mecca-moderation
 excerpt: ''
 date: 2008-04-01
 venue: 'New York Times'

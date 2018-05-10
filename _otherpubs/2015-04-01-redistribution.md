@@ -1,7 +1,7 @@
 ---
 title: "Can Income Redistribution Help Fight Depression?"
-collection: other-pubs
-permalink: /other_pubs/2015-04-01-redistribution
+collection: otherpubs
+permalink: /otherpubs/2015-04-01-redistribution
 excerpt: ''
 date: 2015-04-01
 venue: 'Corporate Knights'

@@ -1,7 +1,7 @@
 ---
 title: "Mental Accounts and the Marginal Willingness to Share"
-collection: work-in-progress
-permalink: /work_in_progress/2017-08-01-mental-accounts
+collection: wip
+permalink: /wip/2017-08-01-mental-accounts
 excerpt: ''
 date: 2017-08-01
 citation: 'Clingingsmith (2017). &quot;Mental Accounts and the Marginal Willingness to Share&quot; <i>Unpublished Ms.</i>'
