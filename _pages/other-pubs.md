@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "Work in Progress"
-permalink: /work_in_progress/
+permalink: /other_pubs/
 author_profile: true
 ---
 
 
 {% include base_path %}
 
-{% for post in site.work-in-progress reversed %}
+{% for post in site.other-pubs reversed %}
   {% include archive-single.html %}
 {% endfor %}
