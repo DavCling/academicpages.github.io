@@ -65,6 +65,7 @@ Thesis Advising
 * J.P. Graulty (2009-10, honors thesis)
 * Yugarshi Mondal (2009-10, independent study)
 
+
 Service
 ======
 ## Referee
@@ -92,8 +93,8 @@ Service
 * Review of Economics and Statistics
 * Journal of Economic History
 
-## Institutional 
 
+## Institutional 
 ### University Level
 * Faculty Senate Honorary Degree Committee. Weatherhead School of Management Representative. Fall 2008-Present.
 * Faculty Marshall. Commencement and Convocation. Spring 2010-Present.
@@ -114,6 +115,7 @@ Service
 * McMyler Lecture Committee. Member 2014-Present.
 * Brownbag Coordinator. 2014-Present.
 * Undergraduate Advising. Approximately 10 students per year. Fall 2008-Present.
+
 
 Affiliations
 ======
