@@ -3,14 +3,11 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Work in Progres"
+  - title: "Work in Progress"
     url: /work_in_progress/ 
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
