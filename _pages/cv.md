@@ -31,13 +31,13 @@ Refereed Publications
   
 Work in Progress
 ======
-  <ul>{% for post in site.work-in-progress %}
+  <ul>{% for post in site.wip %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Other Publications
 ======
-  <ul>{% for post in site.other-pubs %}
+  <ul>{% for post in site.otherpubs %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
