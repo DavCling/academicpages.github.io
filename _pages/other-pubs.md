@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Work in Progress"
-permalink: /other_pubs/
+permalink: /other-pubs/
 author_profile: true
 ---
 

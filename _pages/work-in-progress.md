@@ -8,6 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.work_in_progress reversed %}
+{% for post in site.work-in-progress reversed %}
   {% include archive-single.html %}
 {% endfor %}
