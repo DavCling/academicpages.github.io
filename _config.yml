@@ -175,6 +175,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  wip:
+    output: true
+    permalink: /:collection/:path/
+  otherpubs:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
