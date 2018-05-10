@@ -31,13 +31,13 @@ Refereed Publications
   
 Work in Progress
 ======
-  <ul>{% for post in site.work_in_progress %}
+  <ul>{% for post in site.work-in-progress %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Other Publications
 ======
-  <ul>{% for post in site.other_pubs %}
+  <ul>{% for post in site.other-pubs %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -97,3 +97,9 @@ Service
 * Brownbag Coordinator. 2014-Present.
 * Undergraduate Advising. Approximately 10 students per year. Fall 2008-Present.
 
+Affiliations
+======
+* American Economic Association
+* Economic History Association
+* Royal Economic Society
+* Economic Science Association

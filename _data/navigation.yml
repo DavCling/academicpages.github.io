@@ -4,7 +4,7 @@ main:
     url: /publications/ 
 
   - title: "Work in Progress"
-    url: /work_in_progress/ 
+    url: /work-in-progress/ 
 
   - title: "Teaching"
     url: /teaching/    
