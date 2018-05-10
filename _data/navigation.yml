@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Research Publications"
     url: /publications/ 
 
   - title: "Work in Progress"
     url: /work-in-progress/ 
+
+  - title: "Other Publications"
+    url: /other-pubs/ 
 
   - title: "Teaching"
     url: /teaching/    
