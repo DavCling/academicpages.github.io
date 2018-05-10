@@ -46,7 +46,25 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ 
+Thesis Advising
+=====
+* Nathan Delany (2015-18, PhD History)
+* Jackie Blair (2017-18; honors thesis)
+* Jingze Sun (2015-16, honors thesis)
+* Rich Narendran (2014-15, independent study)
+* Melinda Ashe (2013-14, honors thesis)
+* Anthony Gatti (2012-13, honors thesis)
+* Andrin Foster (2012-13, honors thesis)
+* Di Tang (2010-12, honors thesis)
+* Jon Lewandowski (2012, independent study)
+* Aya Du (2011-12, honors thesis)
+* Michael Bielawski (2010-12, honors thesis)
+* Dana Skold (2010-11, honors thesis)
+* Allison Elder (2009-10, honors thesis)
+* J.P. Graulty (2009-10, honors thesis)
+* Yugarshi Mondal (2009-10, independent study)
+
 Service
 ======
 ## Referee
