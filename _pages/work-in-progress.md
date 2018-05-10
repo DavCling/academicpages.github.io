@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Work in Progress"
-permalink: /work_in_progress/
+permalink: /work-in-progress/
 author_profile: true
 ---
 
