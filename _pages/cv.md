@@ -51,39 +51,77 @@ Grants
 ======
  
 Weatherhead School of Management Intramural Grant.
+
+Title: Followup of PITCHU Participants
+
+Dates: 2018
+
+Amount: $8,000
+ 
+ 
+ 
+Weatherhead School of Management Intramural Grant.
+
 Title: Ethnicity, Education, and Marriage in the Interwar United States
+
 Dates: 2016-2017
+
 Amount: $6,000
 
+
 Weatherhead School of Management Intramural Grant.
+
 Title: The Economics of Status: Consumption, Preferences, and Performance
+
 Dates: 2015-2016
+
 Amount: $6,960
+
  
 ACES+ Opportunity Grant, Case Western Reserve University
+
 Title: Does “Colorblindness” Reduce or Increase Bias in Distributional Choice?
+
 Dates: 2016-2017
+
 Amount: $2,000 
   
+  
 Russell Sage Foundation. Co-PI
+
 Title: How Much House Can We Afford?
+
 Dates: 2010-2012
+
 Amount: $35,000
 
+
 Metanexus Foundation. Spiritual Capital Program, Harvard University subcontract. PI
+
 Title: Religion and Cooperation
+
 Dates: 2010-2011
+
 Amount: $31,000
 
+
 Higher Education Commission, Government of Pakistan. Co-PI
+
 Title: Social Research Capacity Building Program. 
+
 Dates: 2008-2011
+
 Amount: $50,000
 
+
 Metanexus Foundation. Spiritual Capital Program. (funded by Templeton Foundation) Co-PI
+
 Title: The Impact of the Hajj. 
+
 Dates: 2006-2010
+
 Amount: $150,000
+
   
   
 Professional Presentations
@@ -119,18 +157,31 @@ Contracting for Health: Evidence from Cambodia. 8th BREAD Conference. Cornell Un
 ## Invited Seminars
 
 Happiness, Income, and Redistribution. Public Affairs Friday Lunch. Case Western Reserve University Department of Political Science. April 2016
+
 Status and the Demand for Visible Goods: Experimental Evidence on Conspicuous Consumption. Kent State University, September 2015.
+
 Mental Accounts and the Marginal Willingness to Give. IUPUI Lilliy Family School of Philanthropy, May 2014.
+
 Mental Accounts and the Marginal Willingness to Give. The Ohio State University, November 2013.
+
 Language and Industrialization in mid-20th Century India. University of California—Los Angeles, November 2008.
+
 Estimating the Impact of the Hajj. Simon Fraser University, October 2008.
+
 Estimating the Impact of the Hajj. The Ohio State University, April 2008.
+
 Language and Industrialization in mid-20th Century India. University of British Columbia, October 2007.
+
 Language and Industrialization in mid-20th Century India. Case Western Reserve University, February 2007
+
 Language and Industrialization in mid-20th Century India. Reed College, February 2007
+
 Language and Industrialization in mid-20th Century India. Vanderbilt University, February 2007
+
 Language and Industrialization in mid-20th Century India. University of Toronto, January 2007
+
 Language and Industrialization in mid-20th Century India. University of California—Davis, January 2007
+
 Language and Industrialization in mid-20th Century India. Harvard Business School, December 2006
     
   
