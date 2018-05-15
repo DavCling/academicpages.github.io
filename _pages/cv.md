@@ -88,23 +88,35 @@ Amount: $150,000
   
 Professional Presentations
 ======
-##Conferences
+## Conferences
 
-The Pros and Cons of Pitch Training, 2nd Workshop on Experimental Economics and Entrepreneurship, May 2018
+The Pros and Cons of Pitch Training, 2nd Workshop on Experimental Economics and Entrepreneurship, Copenhagen Business School, May 2018
+
 Training Entrepreneurs to Pitch Experienced Investors. NBER Summer Institute, July 2016
+
 Status and the Demand for Visible Goods: An Experiment on Conspicuous Consumption. Economic Science Association North America Meeting, October 2015.
+
 Mental Accounts and the Mutability of Altruism: An Experiment with Online Workers. Science of Philanthropy Initiative Annual Conference, University of Chicago, September 2013.
+
 Mental Accounts and the Mutability of Altruism: An Experiment with Online Workers. Economic Science Association European Meeting, July 2013.
+
 Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering. Cornell-Michigan-CEU Conference on Rethinking Ethnicity. Budapest, September 2008.
+
 Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering. NBER National Security Working Group, February 2008.
+
 Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering.  Association for the Study of Religion, Economics, and Culture Annual Conference, Tampa, November 2007.
+
 Industrialization and Bilingualism in India. Harvard-Hitotsubashi-Warwick Conference on Economic Change around the Indian Ocean. Venice, July 2008.
+
 Language and Industrialization in mid-20th Century India. Canadian Network for Economic History, McGill University, April 2008.
+
 Industrialization and Bilingualism in India. Annual Conference on South Asia. Madison, October 2007.
+
 Industrialization and Bilingualism in India. 45th Cliometrics Conference. Tucson, September 2007.
+
 Contracting for Health: Evidence from Cambodia. 8th BREAD Conference. Cornell University, 
 
-##Invited Seminars
+## Invited Seminars
 
 Happiness, Income, and Redistribution. Public Affairs Friday Lunch. Case Western Reserve University Department of Political Science. April 2016
 Status and the Demand for Visible Goods: Experimental Evidence on Conspicuous Consumption. Kent State University, September 2015.
