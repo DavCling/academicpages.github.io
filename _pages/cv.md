@@ -29,9 +29,9 @@ Refereed Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Work in Progress
+Working Papers
 ======
-  <ul>{% for post in site.wip %}
+  <ul>{% for post in site.wp %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -40,6 +40,87 @@ Other Publications
   <ul>{% for post in site.otherpubs %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Awards and Honors
+======
+* Lewis-Progressive Fellowship, Weatherhead School of Management, Case Western Reserve University, July 2016-July 2017. 
+* Weatherhead School of Management Undergraduate Teaching Award, Nominated 2013, 2015, 2016.
+* Winner of the 2008 Explorations Prize for best article in Explorations in Economic History for “Deindustrialization in 18th and 19th Century India.”
+  
+Grants
+======
+ 
+Weatherhead School of Management Intramural Grant.
+Title: Ethnicity, Education, and Marriage in the Interwar United States
+Dates: 2016-2017
+Amount: $6,000
+
+Weatherhead School of Management Intramural Grant.
+Title: The Economics of Status: Consumption, Preferences, and Performance
+Dates: 2015-2016
+Amount: $6,960
+ 
+ACES+ Opportunity Grant, Case Western Reserve University
+Title: Does “Colorblindness” Reduce or Increase Bias in Distributional Choice?
+Dates: 2016-2017
+Amount: $2,000 
+  
+Russell Sage Foundation. Co-PI
+Title: How Much House Can We Afford?
+Dates: 2010-2012
+Amount: $35,000
+
+Metanexus Foundation. Spiritual Capital Program, Harvard University subcontract. PI
+Title: Religion and Cooperation
+Dates: 2010-2011
+Amount: $31,000
+
+Higher Education Commission, Government of Pakistan. Co-PI
+Title: Social Research Capacity Building Program. 
+Dates: 2008-2011
+Amount: $50,000
+
+Metanexus Foundation. Spiritual Capital Program. (funded by Templeton Foundation) Co-PI
+Title: The Impact of the Hajj. 
+Dates: 2006-2010
+Amount: $150,000
+  
+  
+Professional Presentations
+======
+##Conferences
+
+The Pros and Cons of Pitch Training, 2nd Workshop on Experimental Economics and Entrepreneurship, May 2018
+Training Entrepreneurs to Pitch Experienced Investors. NBER Summer Institute, July 2016
+Status and the Demand for Visible Goods: An Experiment on Conspicuous Consumption. Economic Science Association North America Meeting, October 2015.
+Mental Accounts and the Mutability of Altruism: An Experiment with Online Workers. Science of Philanthropy Initiative Annual Conference, University of Chicago, September 2013.
+Mental Accounts and the Mutability of Altruism: An Experiment with Online Workers. Economic Science Association European Meeting, July 2013.
+Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering. Cornell-Michigan-CEU Conference on Rethinking Ethnicity. Budapest, September 2008.
+Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering. NBER National Security Working Group, February 2008.
+Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering.  Association for the Study of Religion, Economics, and Culture Annual Conference, Tampa, November 2007.
+Industrialization and Bilingualism in India. Harvard-Hitotsubashi-Warwick Conference on Economic Change around the Indian Ocean. Venice, July 2008.
+Language and Industrialization in mid-20th Century India. Canadian Network for Economic History, McGill University, April 2008.
+Industrialization and Bilingualism in India. Annual Conference on South Asia. Madison, October 2007.
+Industrialization and Bilingualism in India. 45th Cliometrics Conference. Tucson, September 2007.
+Contracting for Health: Evidence from Cambodia. 8th BREAD Conference. Cornell University, 
+
+##Invited Seminars
+
+Happiness, Income, and Redistribution. Public Affairs Friday Lunch. Case Western Reserve University Department of Political Science. April 2016
+Status and the Demand for Visible Goods: Experimental Evidence on Conspicuous Consumption. Kent State University, September 2015.
+Mental Accounts and the Marginal Willingness to Give. IUPUI Lilliy Family School of Philanthropy, May 2014.
+Mental Accounts and the Marginal Willingness to Give. The Ohio State University, November 2013.
+Language and Industrialization in mid-20th Century India. University of California—Los Angeles, November 2008.
+Estimating the Impact of the Hajj. Simon Fraser University, October 2008.
+Estimating the Impact of the Hajj. The Ohio State University, April 2008.
+Language and Industrialization in mid-20th Century India. University of British Columbia, October 2007.
+Language and Industrialization in mid-20th Century India. Case Western Reserve University, February 2007
+Language and Industrialization in mid-20th Century India. Reed College, February 2007
+Language and Industrialization in mid-20th Century India. Vanderbilt University, February 2007
+Language and Industrialization in mid-20th Century India. University of Toronto, January 2007
+Language and Industrialization in mid-20th Century India. University of California—Davis, January 2007
+Language and Industrialization in mid-20th Century India. Harvard Business School, December 2006
+    
   
 Teaching
 ======
