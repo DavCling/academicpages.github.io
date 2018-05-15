@@ -175,7 +175,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  wip:
+  wp:
     output: true
     permalink: /:collection/:path/
   otherpubs:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-# _wip
+# _wp
   - scope:
       path: ""
-      type: wip
+      type: wp
     values:
       layout: single
       author_profile: true

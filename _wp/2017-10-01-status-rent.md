@@ -1,7 +1,7 @@
 ---
 title: "Status and Economic Rent: Experimental Evidence on the Matthew Effect"
-collection: wip
-permalink: /wip/2017-10-01-status-rent
+collection: wp
+permalink: /wp/2017-10-01-status-rent
 excerpt: ''
 citation: 'Clingingsmith and Sheremeta (2017). &quot;Status and Economic Rent: Experimental Evidence on the Matthew Effect&quot; <i>Unpublished Ms.</i>'
 ---

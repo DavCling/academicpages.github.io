@@ -1,7 +1,7 @@
 ---
 title: "Let Others Go First: How Pitch Order Affects Investor Interest in Elevator Pitches"
-collection: wip
-permalink: /wip/2017-09-01-pitch-order
+collection: wp
+permalink: /wp/2017-09-01-pitch-order
 excerpt: ''
 citation: 'Clingingsmith and Shane (2017). &quot;Let Others Go First: How Pitch Order Affects Investor Interest in Elevator Pitches&quot; <i>Unpublished Ms.</i>'
 ---

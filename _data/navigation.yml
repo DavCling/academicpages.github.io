@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Research Publications"
+  - title: "Research Pubs"
     url: /publications/ 
 
-  - title: "Work in Progress"
-    url: /wip/ 
+  - title: "Working Papers"
+    url: /wp/ 
 
-  - title: "Other Publications"
+  - title: "Other Pubs"
     url: /otherpubs/ 
 
   - title: "Teaching"
