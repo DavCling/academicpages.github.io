@@ -129,59 +129,34 @@ Professional Presentations
 ## Conferences
 
 * The Pros and Cons of Pitch Training, 2nd Workshop on Experimental Economics and Entrepreneurship, Copenhagen Business School, May 2018
-
 * Training Entrepreneurs to Pitch Experienced Investors. NBER Summer Institute, July 2016
-
 * Status and the Demand for Visible Goods: An Experiment on Conspicuous Consumption. Economic Science Association North America Meeting, October 2015.
-
 * Mental Accounts and the Mutability of Altruism: An Experiment with Online Workers. Science of Philanthropy Initiative Annual Conference, University of Chicago, September 2013.
-
 * Mental Accounts and the Mutability of Altruism: An Experiment with Online Workers. Economic Science Association European Meeting, July 2013.
-
 * Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering. Cornell-Michigan-CEU Conference on Rethinking Ethnicity. Budapest, September 2008.
-
 * Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering. NBER National Security Working Group, February 2008.
-
 * Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering.  Association for the Study of Religion, Economics, and Culture Annual Conference, Tampa, November 2007.
-
 * Industrialization and Bilingualism in India. Harvard-Hitotsubashi-Warwick Conference on Economic Change around the Indian Ocean. Venice, July 2008.
-
 * Language and Industrialization in mid-20th Century India. Canadian Network for Economic History, McGill University, April 2008.
-
 * Industrialization and Bilingualism in India. Annual Conference on South Asia. Madison, October 2007.
-
 * Industrialization and Bilingualism in India. 45th Cliometrics Conference. Tucson, September 2007.
-
 * Contracting for Health: Evidence from Cambodia. 8th BREAD Conference. Cornell University, 
 
 ## Invited Seminars
 
 * Happiness, Income, and Redistribution. Public Affairs Friday Lunch. Case Western Reserve University Department of Political Science. April 2016
-
 * Status and the Demand for Visible Goods: Experimental Evidence on Conspicuous Consumption. Kent State University, September 2015.
-
 * Mental Accounts and the Marginal Willingness to Give. IUPUI Lilliy Family School of Philanthropy, May 2014.
-
 * Mental Accounts and the Marginal Willingness to Give. The Ohio State University, November 2013.
-
 * Language and Industrialization in mid-20th Century India. University of California—Los Angeles, November 2008.
-
 * Estimating the Impact of the Hajj. Simon Fraser University, October 2008.
-
 * Estimating the Impact of the Hajj. The Ohio State University, April 2008.
-
 * Language and Industrialization in mid-20th Century India. University of British Columbia, October 2007.
-
 * Language and Industrialization in mid-20th Century India. Case Western Reserve University, February 2007
-
 * Language and Industrialization in mid-20th Century India. Reed College, February 2007
-
 * Language and Industrialization in mid-20th Century India. Vanderbilt University, February 2007
-
 * Language and Industrialization in mid-20th Century India. University of Toronto, January 2007
-
 * Language and Industrialization in mid-20th Century India. University of California—Davis, January 2007
-
 * Language and Industrialization in mid-20th Century India. Harvard Business School, December 2006
     
   
