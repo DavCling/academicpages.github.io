@@ -1,13 +1,21 @@
 ---
 layout: archive
-title: "CV"
+title: "David Clingingsmith"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+| ------------- | -----:|
+| Department of Economics       | Phone: 216-368-4294  |
+| Weatherhead School of Management      |  Email: dlc43@cwru.edu |
+| Case Western Reserve Univeristy |   Web page: davidclingingsmith.com |
+| 11119 Bellflower Road, Room 281 |   |
+| Cleveland, Ohio 44106 |   |
+
+
 
 Employment
 ======
