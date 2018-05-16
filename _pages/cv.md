@@ -31,7 +31,8 @@ Education
 * 2007	Ph.D. Harvard University, Economics. Fields: Development Economics, Economic History, and Labor Economics. 
 * 1998	M.A., University of Chicago, Anthropology and Linguistics.
 * 1993	B.A., University of Toronto, With High Distinction.
-  \\
+  
+  
   
 
 Refereed Publications
