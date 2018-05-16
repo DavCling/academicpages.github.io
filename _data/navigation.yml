@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Research Pubs"
+  - title: "Research"
     url: /publications/ 
-
-  - title: "Working Papers"
-    url: /wp/ 
 
   - title: "Other Pubs"
     url: /otherpubs/ 
