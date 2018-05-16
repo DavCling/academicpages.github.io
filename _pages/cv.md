@@ -13,11 +13,11 @@ Department of Economics\\
 Weatherhead School of Management\\
 Case Western Reserve University\\
 11119 Bellflower Road, Room 281\\
-Cleveland, Ohio 44106\\
+Cleveland, Ohio 44106
 
 Phone\: 216-368-4294\\
 Email\: david DOT clingingsmith AT gmail DOT com\\
-Web page\: davidclingingsmith.com\\
+Web page\: davidclingingsmith.com
 
 
 Employment
@@ -32,7 +32,7 @@ Education
 * 1998	M.A., University of Chicago, Anthropology and Linguistics.
 * 1993	B.A., University of Toronto, With High Distinction.
   \\
-  \\
+  
 
 Refereed Publications
 ======
