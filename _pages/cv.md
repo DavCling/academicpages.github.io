@@ -10,12 +10,21 @@ redirect_from:
 
 |:-----------|------------:|
 | Department of Economics | Phone\: 216-368-4294  |
-| Weatherhead School of Management |  Email\: dlc43@cwru.edu |
-| Case Western Reserve Univeristy |   Web page\: davidclingingsmith.com |
-| 11119 Bellflower Road, Room 281 |   |
-| Cleveland, Ohio 44106 |   |
+| Weatherhead School of Management | Email\: dlc43@cwru.edu |
+| Case Western Reserve Univeristy | Web page\: davidclingingsmith.com |
+| 11119 Bellflower Road, Room 281 | |
+| Cleveland, Ohio 44106 | |
 
-
+ <table style="width:100%">
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+  </tr>
+</table> 
 
 Employment
 ======
