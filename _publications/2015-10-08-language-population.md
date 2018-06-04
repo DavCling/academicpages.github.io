@@ -1,9 +1,9 @@
 ---
 title: "Are the World’s Languages Consolidating? On the Dynamics and Distribution of Language Population"
 collection: publications
-permalink: /publication/2017-02-01-langauge-population
+permalink: /publication/2015-10-08-langauge-population
 excerpt: ''
-date: 2017-02-01
+date: 2015-10-08
 venue: 'The Economic Journal'
 paperurl: 'https://doi.org/10.1111/ecoj.12257'
 citation: 'Clingingsmith (2017). &quot;"Are the World’s Languages Consolidating? On the Dynamics and Distribution of Language Population&quot; <i>The Economic Journal</i>. 127(599): 143-176.'
