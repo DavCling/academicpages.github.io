@@ -13,8 +13,8 @@ Welcome to my little corner of the web. I am an applied microeconomist with rese
 If you peruse my research page you'll see I've published research on language, religious identity, social status, entrepreneurship, and the economic history of India. I use the full range of methods available to the modern economist, from archival research to observational data to field and lab experiments. 
 
 Selected Publications
-======
+--------
 
-{% for post in site.highlights %}
+{% for post in site.highlights reversed %}
   {% include archive-single.html %}
 {% endfor %}
