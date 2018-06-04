@@ -1,7 +1,7 @@
 ---
 title: "Deindustrialization in 18th and 19th Century India: Mughal Decline, Climate Shocks and British Industrial Ascent"
-collection: publications
-permalink: /publication/2008-10-01-deindustrialization
+collection: highlights
+permalink: /publications/2008-10-01-deindustrialization
 excerpt: ''
 date: 2008-10-01
 venue: 'Explorations in Economic History'

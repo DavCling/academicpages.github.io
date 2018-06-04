@@ -1,7 +1,7 @@
 ---
 title: "Training Aspiring Entrepreneurs to Pitch Experienced Investors: Evidence from a Field Experiment in the United States"
-collection: publications
-permalink: /publication/2017-12-01-pitch-training-judge
+collection: highlights
+permalink: /publications/2017-12-01-pitch-training-judge
 excerpt: ''
 date: 2017-12-01
 venue: 'Management Science'
