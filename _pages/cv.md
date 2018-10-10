@@ -16,10 +16,10 @@ Case Western Reserve University\\
 Cleveland, Ohio 44106
 
 Phone\: 216-368-4294\\
-Email\: david DOT clingingsmith AT gmail DOT com\\
+Email\: david DOT clingingsmith AT gmail DOT com
 
-[CV in PDF form](files/ClingingsmithCV.pdf)\\
-[Research and teaching statement in PDF form](files/ClingingsmithResearchTeaching.pdf)\\
+[CV in PDF form](../files/ClingingsmithCV.pdf)\\
+[Research and teaching statement in PDF form](../files/ClingingsmithResearchTeaching.pdf)\\
 
 Citizenship: Canada and United States
 Martial status: Married, no children
