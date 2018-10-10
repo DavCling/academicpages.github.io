@@ -14,6 +14,8 @@ If you peruse my research page you'll see I've published research on language, r
 
 I am currently developing a project about the impact of automation on the labor market in the postwar United States with Leah Boustan.
 
+To download a PDF copy of my CV or research and teaching statement, see the CV tab above.
+
 Selected Publications
 --------
 
