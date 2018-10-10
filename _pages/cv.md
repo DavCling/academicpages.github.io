@@ -18,8 +18,8 @@ Cleveland, Ohio 44106
 Phone\: 216-368-4294\\
 Email\: david DOT clingingsmith AT gmail DOT com
 
-[CV in PDF form](ClingingsmithCV.pdf)
-[Research and teaching statement in PDF form](ClingingsmithResearchTeaching.pdf)
+[CV in PDF form](https://DavCling.github.io/files/ClingingsmithCV.pdf)\\
+[Research and teaching statement in PDF form](https://DavCling.github.io/files/ClingingsmithResearchTeaching.pdf)
 
 Citizenship: Canada and United States
 Martial status: Married, no children
