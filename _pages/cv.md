@@ -32,7 +32,7 @@ Employment
 
 Education
 ======
-* 2007	Ph.D. Harvard University, Economics. Fields: Development Economics, Economic History, and Labor Economics. 
+* 2007	Ph.D. Harvard University, Economics. Fields: Development Economics, Economic History, and Labor Economics. Advisors: Claudia Goldin, Michael Kremer (chair), Asim Khwaja, Jeffrey Williamson
 * 1998	M.A., University of Chicago, Anthropology and Linguistics.
 * 1993	B.A., University of Toronto, With High Distinction.
   
