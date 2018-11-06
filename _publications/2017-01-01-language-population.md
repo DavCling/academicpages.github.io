@@ -1,7 +1,7 @@
 ---
 title: "Are the World’s Languages Consolidating? On the Dynamics and Distribution of Language Population"
 collection: publications
-permalink: /publication/2015-10-08-langauge-population
+permalink: /publication/2015-10-08-language-population
 excerpt: ''
 date: 2015-10-08
 venue: 'The Economic Journal'
