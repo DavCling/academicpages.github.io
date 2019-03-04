@@ -1,5 +1,5 @@
 ---
-title: "Negative Emotions, Income, and Welfare: Casual Estimates from the PSID"
+title: "Negative Emotions, Income, and Welfare: Causal Estimates from the PSID"
 collection: publications
 permalink: /publication/2016-10-01-negative-emotions
 excerpt: ''
