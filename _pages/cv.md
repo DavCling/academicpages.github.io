@@ -144,7 +144,9 @@ Professional Presentations
 ======
 ## Conferences
 
+* Automation and the Labor Market after World War II, with Leah Boustan. Social Science History Assocation, November 2019.
 * The Pros and Cons of Pitch Training, 2nd Workshop on Experimental Economics and Entrepreneurship, Copenhagen Business School, May 2018
+* Comment on Can Governments Make Firms More Investment Ready? Innovation Growth Lab Winter Meeting, December 2017.
 * Training Entrepreneurs to Pitch Experienced Investors. NBER Summer Institute, July 2016
 * Status and the Demand for Visible Goods: An Experiment on Conspicuous Consumption. Economic Science Association North America Meeting, October 2015.
 * Mental Accounts and the Mutability of Altruism: An Experiment with Online Workers. Science of Philanthropy Initiative Annual Conference, University of Chicago, September 2013.
@@ -160,6 +162,8 @@ Professional Presentations
 
 ## Invited Seminars
 
+* Training Aspiring Entrepreneurs to Pitch Experienced Investors, University of Toronto Munk School, February 2019.
+* Training Aspiring Entrepreneurs to Pitch Experienced Investors, University of California—Merced Department of Economics, December 2018.
 * Happiness, Income, and Redistribution. Public Affairs Friday Lunch. Case Western Reserve University Department of Political Science. April 2016
 * Status and the Demand for Visible Goods: Experimental Evidence on Conspicuous Consumption. Kent State University, September 2015.
 * Mental Accounts and the Marginal Willingness to Give. IUPUI Lilliy Family School of Philanthropy, May 2014.
@@ -182,8 +186,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-Thesis Advising
+Advising
 =====
+* Alec Hoover (2019-, honors thesis)
+* Victoria Sung (2018-2019, honors thesis)
 * Nathan Delany (2015-18, PhD History)
 * Jackie Blair (2017-18; honors thesis)
 * Jingze Sun (2015-16, honors thesis)
